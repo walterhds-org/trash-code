@@ -1,0 +1,6 @@
+@TrashCode.Api_HostAddress = https://localhost:5001
+
+GET {{$TrashCode.Api_HostAddress}}/api/deputados/ HTTP/2.1
+Accept: application/json
+
+###
